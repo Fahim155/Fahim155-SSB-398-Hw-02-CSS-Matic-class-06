@@ -1,0 +1,88 @@
+body{
+
+
+	margin: 0;
+padding: 0;
+
+}
+
+
+.mybox{
+
+    height: 250px;
+    width: 300px;
+    margin: 150px 600px;
+    background-color: transparent  ;
+   
+}
+
+.mybox :hover{
+
+background-color: orange;
+
+ box-shadow: 8px -5px 8px 3px green;
+}
+
+
+
+
+
+.mybox h1{
+
+	 background-color: transparent ;
+
+
+	text-align: center;
+    color: yellowgreen;
+}
+
+
+
+
+
+.mybox p{
+
+	text-align: center;
+
+}
+
+
+.mybox2{
+
+    height: 275px;
+    width: 306px;
+    margin: 150px 600px;
+    background-color: green  ;
+    border-radius: 170px 0px 190px 175px;
+    -moz-border-radius: 135px 0px 200px 0px;
+    /* -webkit-border-radius: 135px 0px 200px 0px; */
+    border: 9px solid #000000;
+
+
+}
+
+
+.mybox2 :hover{
+
+background-color:brown;
+
+
+}
+
+
+.mybox2 h1{
+
+	
+
+
+	text-align: end;
+    color: yellowgreen;
+}
+
+
+.mybox2 p{
+
+	text-align: center;
+
+}
+
